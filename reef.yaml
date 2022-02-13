@@ -1,0 +1,17 @@
+names:
+- fish
+nc: 1
+path: C:\Users\soyrl\Desktop/datasets/reef
+test: null
+train: 
+
+  - images/train/video_0
+
+  - images/train/video_1
+
+  
+val: 
+
+  - images/val/video_2
+
+  
